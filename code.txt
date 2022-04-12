@@ -1,8 +1,6 @@
 main.dart
 
-import 'package:flutter/material.dart';
-import 'package:flutter_sqflit_2/add_car.dart';
-import 'package:flutter_sqflit_2/db_helper.dart';
+
 
 void main() {
   runApp(const MyApp());
